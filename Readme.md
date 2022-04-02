@@ -64,7 +64,7 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 <details><summary><b>Deploy to Heroku</b></summary>
 <p>
 <br>
-<a href="https://github.com/shivamrajput0/Katmovie.git">
+<a href="https://heroku.com/deploy?template=https://github.com/shivamrajput0/Katmovie.git">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
