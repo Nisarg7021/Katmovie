@@ -1,4 +1,4 @@
-# auto-filter-bot-v3
+# Katmovie Bot
 This Telegram Bot is [KatmovieBot](https://github.com/shivamrajput0/Katmovie)
 - Telegram Inline & Auto Filter Bot for Channels and Groups. A greater auto filter bot with features like IMDb Posters support, Inline mode, Broadcast feature etc..
 
